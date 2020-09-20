@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+coverage
+src-es5
+*.log
+.nyc_output/
+package-lock.json
+*firebase-adminsdk*.json
